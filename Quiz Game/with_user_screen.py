@@ -1,3 +1,6 @@
+# Link of videos explaining code of this file
+#  https://youtu.be/Dz-oL11Fad4 Intro/User screen Part 
+
 from tkinter import *
 
 Questions = ["What technology is used to record cryptocurrency transactions?",
